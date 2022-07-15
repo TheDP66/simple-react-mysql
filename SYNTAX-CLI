@@ -1,0 +1,10 @@
+npm i axios react-router-dom formik yup @material-ui/core @meterial-ui/icons
+
+git init
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/TheDP66/simple-react-mysql.git
+git push -u origin main
+
+LOCALHOST
+http://localhost:3001/
